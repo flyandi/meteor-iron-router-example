@@ -1,0 +1,12 @@
+/* CSS declarations go here */
+
+
+.panel {
+	background:#eee;
+	padding:2em;
+}
+
+.area {
+	border:1px solid #aaa;
+	padding:2em;
+}
